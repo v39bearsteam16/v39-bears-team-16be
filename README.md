@@ -1,5 +1,5 @@
 Test - 42
-- Need to add prebuild scripts for compiling ts https://docs.cyclic.sh/overview/build
+- Need to add build script for compiling ts https://docs.cyclic.sh/overview/build
 
 # Local Setup
 
