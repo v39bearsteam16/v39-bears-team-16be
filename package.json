@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node ./build/index.js",
-    "tsc": "tsc --watch",
+    "build": "tsc --watch",
     "watch": "nodemon ./build/index.js"
   },
   "repository": {
